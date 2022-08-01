@@ -3,9 +3,10 @@
     "firebaseIos": false,
     "firebaseAndroid": false,
     "crashlytics": false,
-    "localNotifications": false,
+    "localNotifications": true,
     "pushNotifications": false,
-    "appCenterOTA": false,
-    "maps": false,
-    "mapsIos": false
+    "appCenterOTA": true,
+    "maps": true,
+    "mapsIos": false,
+    "nativeOTA": false
 }

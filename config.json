@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "mobileguild.platformdemo",
+    "appIdentifier": "com.mobileguild.platformdemo",
     "appName": "PlatformDemo",
     "bundleName": {
         "main": "PlatformDemo",
@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "1.1.0",
-    "buildNumber": 6,
+    "appVersion": "1.0.0",
+    "buildNumber": 1,
     "runtimeUrl": "https://platformdemo185-sandbox.mxapps.io/"
 }

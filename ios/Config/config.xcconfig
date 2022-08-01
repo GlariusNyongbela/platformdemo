@@ -1,7 +1,7 @@
 PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 
 BUNDLE_DISPLAY_NAME = PlatformDemo
-BUNDLE_IDENTIFIER = mobileguild.platformdemo
+BUNDLE_IDENTIFIER = com.mobileguild.platformdemo
 
 RUNTIME_URL = https:\/\/platformdemo185-sandbox.mxapps.io/
 
